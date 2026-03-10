@@ -17,6 +17,7 @@ public class OOPSBannerUC8 {
 
         // Render the word
         renderBanner("OOPS", patterns);
+        
     }
 
     /**
